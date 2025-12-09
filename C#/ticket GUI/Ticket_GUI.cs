@@ -4,7 +4,7 @@ using System.Windows.Forms;
 
 namespace Ticket_GUI;
 
-public static class TicketGUI
+public static class TicketGui
 {
     //Constants
     private const int ClassAPrice = 15;
