@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Youngblood_FinalProgram {
+public class Gradebook {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

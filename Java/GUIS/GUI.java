@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.Random;
 
 
-public class Youngblood_SLO5 {
+public class GUI {
     //parts that are modified by buttons
     private static JTextField input;
     private static JLabel errorLabel;

@@ -2,9 +2,9 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace Colt_Youngblood_Final_Exam;
+namespace Ticket_GUI;
 
-public static class ColtYoungbloodFinalExam
+public static class TicketGUI
 {
     //Constants
     private const int ClassAPrice = 15;

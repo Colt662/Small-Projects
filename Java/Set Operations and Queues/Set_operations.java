@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 
 
 
-public class Youngblood_SLO1 {
+public class Set_operations {
     public static void main(String[] args) {
         //make and fill the qs with values
         String[] q1Values = {"George", "Jim", "John", "Blake", "Kevin", "Michael", "Walter", "Angel"};
