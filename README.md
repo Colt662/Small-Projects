@@ -34,4 +34,4 @@ PHP and most of the Java projects are the most recent
 2. Download the ZIP file for the whole repository and un-zip it to a folder.
 3. Drag the folder for the PHP project into C:\xampp\htdocs.
 4. Run Xampp and start an Apache server.
-5. Type into your browser "http://localhost/" followed by the name of the project folder eg. http://localhost/File Input-Output
+5. Type into your browser "http<area>://localhost/" followed by the name of the project folder eg. "http<area>://localhost/File Input-Output"
